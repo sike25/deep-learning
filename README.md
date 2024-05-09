@@ -8,3 +8,5 @@ Replacing the simple multi-layer perceptron with a convolutional neural network 
 
 #### Convolutional Neural Networks (Activity Recognition)
 We train a CNN on the [UCI Human Activity Recognition](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones) database. Thirty volunteers performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) to collect 3-axial linear acceleration and 3-axial angular velocity data. The nn design task focused on building narrow and deep Conv1D kernels starting from a fixed architecture with the goal of pushing accuracy past 90%. Options available were to adjust filters, kernel sizes and other hyperparameters. 
+
+#### Retrieval Augmented Generation for Large Language Models
