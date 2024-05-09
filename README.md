@@ -13,4 +13,4 @@ We train a CNN on the [UCI Human Activity Recognition](https://archive.ics.uci.e
 We combine [LLAMA 2 7B](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) with the wikipedia pages of five 2024 movies and series (Damsel, Shogun, Baby Reindeer, Unfrosted and One Day) to teach it to reply correctly to prompts related to these documents, whose information postdate the LLM's training. We start by ensuring it answers incorrectly to the prompts before we set up the RAG, and correctly after.
 
 #### Anomality Detection With Autoencoders
-We create a fully-connected neural network based autoencoder in order to detect credit card frauds. We use this [Kaggle dataset[(https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) where there are 492 labeled frauds and 284807 normal transactions by European cardholders in September 2013.
+We create a fully-connected neural network based autoencoder in order to detect credit card frauds. We use this [Kaggle dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) where there are 492 labeled frauds and 284807 normal transactions by European cardholders in September 2013.
