@@ -16,3 +16,4 @@ We combine [LLAMA 2 7B](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) wi
 We create a fully-connected neural network based autoencoder in order to detect credit card frauds. We use this [Kaggle dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) where there are 492 labeled frauds and 284807 normal transactions by European cardholders in September 2013.
 
 #### Authorship Attribution with BERT
+Using the BERT BERT (Bidirectional Encoder Representations from Transformers) to 
